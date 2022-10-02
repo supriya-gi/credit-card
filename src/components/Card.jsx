@@ -12,7 +12,7 @@ function Card() {
               <img src={card} alt="" className="img-fluid" />
             </div>
             <div className="col-md-6 match-per">
-              <img src={vng} alt="" />
+              <img src={vng} alt="vng" />
               <h1>Select Your Style</h1>
               <p>
                 Match your card to your personality. Whether you like a minimal
@@ -26,7 +26,7 @@ function Card() {
         <div className="container mobile-para">
           <div className="row">
             <div className="col-md-6">
-              <img src={cardone} alt="" className="img-fluid" />
+              <img src={cardone} alt="card" className="img-fluid" />
             </div>
             <div className="col-md-6 choose-reward">
               <p className="select-head">Select Your Style</p>
